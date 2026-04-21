@@ -1,4 +1,4 @@
-[TEACH_Toolkit_v6 (5).html](https://github.com/user-attachments/files/26947763/TEACH_Toolkit_v6.5.html)
+[TEACH_Toolkit_v6 (6).html](https://github.com/user-attachments/files/26948154/TEACH_Toolkit_v6.6.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -420,7 +420,6 @@
  body { font-size: 12pt; }
  }
 
-<style>
  .section-opener {
  background: #f2fbfa;
  border: 1px solid var(--sand);
@@ -544,8 +543,6 @@
     .reframe-row { grid-template-columns: 1fr; }
     .reframe-feel { border-right: none; border-bottom: 1px solid var(--sand); }
   }
-</style>
-
 </style>
 </head>
 <body>
