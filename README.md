@@ -1,12 +1,3 @@
-[TEACH_Toolkit_v6 (3).html](https://github.com/user-attachments/files/26946703/TEACH_Toolkit_v6.3.html)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TEACH Toolkit – Teletherapy-Enabled Action for Caregivers at Home</title>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400;1,8..60,500&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
  :root {
  --cream: #f0faf9;
  --warm-white: #f2fbfa;
